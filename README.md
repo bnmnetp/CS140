@@ -11,3 +11,15 @@ We will go at whatever pace seems most appropriate for the group.  In my ideal w
 6. Week of Nov 30 -- Modelling Many to Many Relations
 7. Week of Dec 7 -- Multiple Table Joins
 8. Final exam will occur during Finals Week
+
+
+# Class Notebook Server
+
+* Requires NorseKey:  [knuth Notebook Server](https://knuth.luther.edu:8000)
+
+# Resources
+
+* [Codecademy SQL](https://www.codecademy.com/courses/learn-sql)
+* [w3schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Practical Postgresql](https://www.commandprompt.com/ppbook/)
+
