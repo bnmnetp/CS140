@@ -15,7 +15,7 @@ We will go at whatever pace seems most appropriate for the group.  In my ideal w
 
 # Class Notebook Server
 
-* Requires NorseKey:  [knuth Notebook Server](https://knuth.luther.edu:8000)
+* Requires NorseKey:  [knuth Notebook Server](https://knuth.luther.edu:8443)
 
 # Resources
 
