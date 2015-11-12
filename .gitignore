@@ -1,5 +1,8 @@
 source/
 release/
+submitted/
 gradebook.db
 handin
+.idea/
+.ipynb_checkpoints/
 
